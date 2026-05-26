@@ -12,15 +12,16 @@
 ## 上线前必须替换
 
 1. `index.html` 里的 canonical：
-   - 当前是 `https://example.com/`
-   - 上线后替换为真实域名。
+   - 当前已设为 GitHub Pages 临时 URL：`https://chilled-watermelon.github.io/mige-men-ye-site/`
+   - 绑定正式域名后再替换为真实域名。
 
 2. JSON-LD 地址：
    - 当前是“待根据营业执照和门店信息核验补充”
    - 明天拿到营业执照、门店地址后替换。
 
 3. `robots.txt` 和 `sitemap.xml`：
-   - 把 `https://example.com/` 替换成真实域名。
+   - 当前已设为 GitHub Pages 临时 URL。
+   - 绑定正式域名后再替换为真实域名。
 
 4. 案例占位：
    - 用真实案例图片和文字替换三个案例卡片。
