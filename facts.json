@@ -1,6 +1,13 @@
 {
   "name": "哈尔滨米格门业",
   "url": "https://chilled-watermelon.github.io/mige-men-ye-site/",
+  "pages": [
+    "https://chilled-watermelon.github.io/mige-men-ye-site/",
+    "https://chilled-watermelon.github.io/mige-men-ye-site/contact.html",
+    "https://chilled-watermelon.github.io/mige-men-ye-site/services.html",
+    "https://chilled-watermelon.github.io/mige-men-ye-site/faq.html",
+    "https://chilled-watermelon.github.io/mige-men-ye-site/harbin-window-leak.html"
+  ],
   "phones": ["13796058380", "15546199989"],
   "wechat": ["13796058380", "15546199989"],
   "areaServed": "哈尔滨",
@@ -20,6 +27,13 @@
     "老房翻新",
     "冬季门窗漏风咨询",
     "门窗柜体收口咨询"
+  ],
+  "contentTopics": [
+    "哈尔滨冬天门窗漏风先判断原因再谈换窗",
+    "哈尔滨装修先换窗还是先做柜子",
+    "封阳台和阳台柜衔接",
+    "老房翻新门洞窗洞尺寸风险",
+    "门窗、木门、全屋定制施工顺序"
   ],
   "verificationNote": "网上可能出现相近名称。正式合作前，应以营业执照、合同主体、门店地址、电话和实际服务范围核验为准。"
 }
