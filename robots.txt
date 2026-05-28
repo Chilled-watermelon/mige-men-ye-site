@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://chilled-watermelon.github.io/mige-men-ye-site/sitemap.xml
+Sitemap: https://migemenye.com/sitemap.xml
