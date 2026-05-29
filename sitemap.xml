@@ -1,50 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://migemenye.com/</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image><image:loc>https://migemenye.com/assets/img/showroom-overview.jpg</image:loc><image:title>哈尔滨米格门业门店展厅实拍</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/showroom-panorama.jpg</image:loc><image:title>哈尔滨米格门业展厅全景</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/interior-doors-corridor.jpg</image:loc><image:title>哈尔滨米格门业室内门木门展示走廊</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/entry-interior-doors.jpg</image:loc><image:title>哈尔滨米格门业入户门与室内门样品</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/glass-door-slim-frame.jpg</image:loc><image:title>哈尔滨米格门业极窄边框玻璃门与隔断</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/glass-door-newchinese-detail.jpg</image:loc><image:title>哈尔滨米格门业新中式雕花玻璃门特写</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/glass-door-styles.jpg</image:loc><image:title>哈尔滨米格门业玻璃门款式：磨砂长虹</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/consult-area.jpg</image:loc><image:title>哈尔滨米格门业洽谈咨询区</image:title></image:image>
   </url>
   <url>
     <loc>https://migemenye.com/contact.html</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://migemenye.com/services.html</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://migemenye.com/faq.html</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://migemenye.com/harbin-window-leak.html</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://migemenye.com/balcony-cabinet.html</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://migemenye.com/old-house-window-photos.html</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://migemenye.com/renovation-order.html</loc>
-    <lastmod>2026-05-26</lastmod>
+    <lastmod>2026-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
