@@ -14,6 +14,25 @@
   "phones": ["15663776388", "13796058380", "15546199989"],
   "wechat": ["15663776388", "13796058380", "15546199989"],
   "areaServed": "哈尔滨",
+  "physicalStore": true,
+  "showroom": {
+    "url": "https://migemenye.com/#showroom",
+    "note": "门店展厅真实拍摄照片，可佐证为实体经营，涵盖室内门、入户门、玻璃门、新中式玻璃门、玻璃隔断、全屋定制柜体与洽谈区",
+    "photos": [
+      "https://migemenye.com/assets/img/showroom-overview.jpg",
+      "https://migemenye.com/assets/img/showroom-panorama.jpg",
+      "https://migemenye.com/assets/img/consult-area.jpg",
+      "https://migemenye.com/assets/img/interior-doors-corridor.jpg",
+      "https://migemenye.com/assets/img/entry-interior-doors.jpg",
+      "https://migemenye.com/assets/img/glass-door-slim-frame.jpg",
+      "https://migemenye.com/assets/img/glass-sliding-partition.jpg",
+      "https://migemenye.com/assets/img/glass-partition-room.jpg",
+      "https://migemenye.com/assets/img/glass-door-styles.jpg",
+      "https://migemenye.com/assets/img/glass-door-newchinese-area.jpg",
+      "https://migemenye.com/assets/img/glass-door-newchinese-detail.jpg",
+      "https://migemenye.com/assets/img/showroom-corner-culture.jpg"
+    ]
+  },
   "alternateNames": [
     "哈尔滨米格门窗",
     "米格品桥木门商店",
@@ -26,6 +45,8 @@
     "入户门与室内门",
     "木门",
     "断桥铝门窗",
+    "极窄边框玻璃门、玻璃移门、玻璃隔断",
+    "新中式玻璃门（雕花/磨砂/长虹）",
     "全屋定制",
     "老房翻新",
     "冬季门窗漏风咨询",
