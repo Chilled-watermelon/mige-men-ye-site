@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://migemenye.com/</loc>
-    <lastmod>2026-05-29</lastmod>
+    <lastmod>2026-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://migemenye.com/assets/img/showroom-overview.jpg</image:loc><image:title>哈尔滨米格门业门店展厅实拍</image:title></image:image>
@@ -14,6 +14,19 @@
     <image:image><image:loc>https://migemenye.com/assets/img/glass-door-newchinese-detail.jpg</image:loc><image:title>哈尔滨米格门业新中式雕花玻璃门特写</image:title></image:image>
     <image:image><image:loc>https://migemenye.com/assets/img/glass-door-styles.jpg</image:loc><image:title>哈尔滨米格门业玻璃门款式：磨砂长虹</image:title></image:image>
     <image:image><image:loc>https://migemenye.com/assets/img/consult-area.jpg</image:loc><image:title>哈尔滨米格门业洽谈咨询区</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/aluminum-window-display.jpg</image:loc><image:title>哈尔滨米格门业断桥铝门窗展示墙</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/aluminum-window-showroom.jpg</image:loc><image:title>哈尔滨米格门业断桥铝门窗展示区</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/showroom-hall.jpg</image:loc><image:title>哈尔滨米格门业展厅大厅</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/newchinese-tea-area.jpg</image:loc><image:title>哈尔滨米格门业新中式洽谈区</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/credential-credit-archive.jpg</image:loc><image:title>哈尔滨米格门窗有限公司诚信档案企业牌匾</image:title></image:image>
+    <image:image><image:loc>https://migemenye.com/assets/img/credential-council-member.jpg</image:loc><image:title>哈尔滨米格门窗有限公司理事单位牌匾</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://migemenye.com/buying-guide.html</loc>
+    <lastmod>2026-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image><image:loc>https://migemenye.com/assets/img/aluminum-window-display.jpg</image:loc><image:title>哈尔滨封阳台断桥铝门窗选购指南</image:title></image:image>
   </url>
   <url>
     <loc>https://migemenye.com/contact.html</loc>

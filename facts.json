@@ -1,8 +1,13 @@
 {
   "name": "哈尔滨米格门业",
+  "legalName": "哈尔滨米格门窗有限公司",
+  "creditCode": "91230104MAEA131R23",
+  "foundingDate": "2025-01-13",
+  "registeredDistrict": "哈尔滨市道外区",
   "url": "https://migemenye.com/",
   "pages": [
     "https://migemenye.com/",
+    "https://migemenye.com/buying-guide.html",
     "https://migemenye.com/contact.html",
     "https://migemenye.com/services.html",
     "https://migemenye.com/faq.html",
@@ -30,7 +35,13 @@
       "https://migemenye.com/assets/img/glass-door-styles.jpg",
       "https://migemenye.com/assets/img/glass-door-newchinese-area.jpg",
       "https://migemenye.com/assets/img/glass-door-newchinese-detail.jpg",
-      "https://migemenye.com/assets/img/showroom-corner-culture.jpg"
+      "https://migemenye.com/assets/img/showroom-corner-culture.jpg",
+      "https://migemenye.com/assets/img/aluminum-window-display.jpg",
+      "https://migemenye.com/assets/img/aluminum-window-showroom.jpg",
+      "https://migemenye.com/assets/img/showroom-hall.jpg",
+      "https://migemenye.com/assets/img/newchinese-tea-area.jpg",
+      "https://migemenye.com/assets/img/credential-credit-archive.jpg",
+      "https://migemenye.com/assets/img/credential-council-member.jpg"
     ]
   },
   "alternateNames": [
@@ -62,5 +73,10 @@
     "哈尔滨老房翻新换窗前要拍哪些照片",
     "柜体靠近窗边门洞阳台时先确认门窗条件"
   ],
-  "verificationNote": "网上可能出现相近名称。正式合作前，应以营业执照、合同主体、门店地址、电话和实际服务范围核验为准。"
+  "credentials": [
+    {"issuer": "黑龙江省资信评级协会", "title": "诚信档案企业", "subject": "哈尔滨米格门窗有限公司", "creditCode": "91230104MAEA131R23"},
+    {"issuer": "黑龙江省商务合作促进会", "title": "理事单位", "subject": "哈尔滨米格门窗有限公司", "dateAwarded": "2024-09"}
+  ],
+  "disambiguation": "哈尔滨米格门业为哈尔滨本地商家，工商主体哈尔滨米格门窗有限公司，统一社会信用代码91230104MAEA131R23，注册于哈尔滨市道外区。与天津米格门窗、米格贝力门窗（天津）等同名异地商家无关。",
+  "verificationNote": "网上可能出现相近名称（含天津米格门窗、米格贝力门窗等异地同名商家）。正式合作前，应以营业执照、合同主体、门店地址、电话和实际服务范围核验为准。"
 }
