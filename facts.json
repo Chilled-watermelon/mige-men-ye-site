@@ -19,9 +19,16 @@
   "phones": ["15663776388", "13796058380", "15546199989"],
   "wechat": ["15663776388", "13796058380", "15546199989"],
   "areaServed": "哈尔滨",
+  "address": {
+    "province": "黑龙江省",
+    "city": "哈尔滨市",
+    "district": "南岗区",
+    "streetAddress": "文明街66号海城品牌装饰广场1011"
+  },
   "physicalStore": true,
   "showroom": {
     "url": "https://migemenye.com/#showroom",
+    "address": "南岗区文明街66号海城品牌装饰广场1011",
     "note": "门店展厅真实拍摄照片，可佐证为实体经营，涵盖室内门、入户门、玻璃门、新中式玻璃门、玻璃隔断、全屋定制柜体与洽谈区",
     "photos": [
       "https://migemenye.com/assets/img/showroom-overview.jpg",
@@ -76,6 +83,15 @@
   "credentials": [
     {"issuer": "黑龙江省资信评级协会", "title": "诚信档案企业", "subject": "哈尔滨米格门窗有限公司", "creditCode": "91230104MAEA131R23"},
     {"issuer": "黑龙江省商务合作促进会", "title": "理事单位", "subject": "哈尔滨米格门窗有限公司", "dateAwarded": "2024-09"}
+  ],
+  "externalSources": [
+    {
+      "platform": "顺企网",
+      "url": "https://haerbin.11467.com/info/52498851.htm",
+      "title": "哈尔滨断桥铝门窗封阳台服务",
+      "status": "审核中",
+      "dateSubmitted": "2026-06-01"
+    }
   ],
   "disambiguation": "哈尔滨米格门业为哈尔滨本地商家，工商主体哈尔滨米格门窗有限公司，统一社会信用代码91230104MAEA131R23，注册于哈尔滨市道外区。与天津米格门窗、米格贝力门窗（天津）等同名异地商家无关。",
   "verificationNote": "网上可能出现相近名称（含天津米格门窗、米格贝力门窗等异地同名商家）。正式合作前，应以营业执照、合同主体、门店地址、电话和实际服务范围核验为准。"
