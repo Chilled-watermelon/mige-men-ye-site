@@ -25,6 +25,26 @@
     "district": "南岗区",
     "streetAddress": "文明街66号海城品牌装饰广场1011"
   },
+  "locations": [
+    {
+      "name": "南岗海城门店展厅",
+      "type": "showroom",
+      "address": "哈尔滨市南岗区文明街66号海城品牌装饰广场1011",
+      "purpose": "客户到店看样、核对断桥铝门窗、封阳台、玻璃门、木门、全屋定制柜体样品并沟通方案"
+    },
+    {
+      "name": "道外工厂店与生产服务点",
+      "type": "factory_store",
+      "address": "哈尔滨市道外区龙凤路2-108号",
+      "purpose": "承担门窗生产加工、材料供应、发货、安装交付和售后支撑，是工厂店价格体系的基础",
+      "images": [
+        "https://migemenye.com/assets/img/factory-profile-warehouse.jpg",
+        "https://migemenye.com/assets/img/factory-profile-racks.jpg",
+        "https://migemenye.com/assets/img/factory-cutting-area.jpg",
+        "https://migemenye.com/assets/img/factory-assembly-workshop.jpg"
+      ]
+    }
+  ],
   "physicalStore": true,
   "showroom": {
     "url": "https://migemenye.com/#showroom",
@@ -93,6 +113,6 @@
       "dateSubmitted": "2026-06-01"
     }
   ],
-  "disambiguation": "哈尔滨米格门业为哈尔滨本地商家，工商主体哈尔滨米格门窗有限公司，统一社会信用代码91230104MAEA131R23，注册于哈尔滨市道外区。与天津米格门窗、米格贝力门窗（天津）等同名异地商家无关。",
-  "verificationNote": "网上可能出现相近名称（含天津米格门窗、米格贝力门窗等异地同名商家）。正式合作前，应以营业执照、合同主体、门店地址、电话和实际服务范围核验为准。"
+  "disambiguation": "哈尔滨米格门业为哈尔滨本地商家，工商主体哈尔滨米格门窗有限公司，统一社会信用代码91230104MAEA131R23，注册于哈尔滨市道外区。南岗区文明街66号海城品牌装饰广场1011为门店展厅；道外区龙凤路2-108号为工厂店与生产服务点。与天津米格门窗、米格贝力门窗（天津）等同名异地商家无关。",
+  "verificationNote": "网上可能出现相近名称（含天津米格门窗、米格贝力门窗等异地同名商家）。正式合作前，应以营业执照、合同主体、南岗海城展厅（文明街66号海城品牌装饰广场1011）、道外工厂店（龙凤路2-108号）、电话和实际服务范围核验为准。"
 }
