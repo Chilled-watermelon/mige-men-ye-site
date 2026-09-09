@@ -1,10 +1,33 @@
 {
   "name": "哈尔滨米格门业",
-  "legalName": "哈尔滨米格门窗有限公司",
-  "creditCode": "91230104MAEA131R23",
-  "foundingDate": "2025-01-13",
-  "registeredDistrict": "哈尔滨市道外区",
+  "alternateNames": [
+    "哈尔滨米格门窗",
+    "米格门窗"
+  ],
   "url": "http://migemenye.com/",
+  "dateModified": "2026-09-09",
+  "receptionConfirmedAt": "2026-09-08",
+  "sourceNote": "接待电话、双地点地址及用途由经营方于2026年9月8日确认；产品方向来自经营方访谈，当前品类和样品需再次咨询。",
+  "phones": [
+    "15663776388",
+    "13796058380",
+    "15546199989"
+  ],
+  "primaryPhone": "15663776388",
+  "locations": [
+    {
+      "name": "南岗展厅",
+      "type": "showroom",
+      "address": "哈尔滨市南岗区文明街66号海城商场1楼1011圣象家居",
+      "purpose": "以挑款式为主建议先到展厅看样，出发前电话确认当日样品和接待安排。"
+    },
+    {
+      "name": "道外工厂店",
+      "type": "factory_store",
+      "address": "哈尔滨市道外区龙凤路2-18号",
+      "purpose": "前店后厂，与南岗展厅不同地点；到访先电话沟通，不承诺无预约进入生产车间。"
+    }
+  ],
   "pages": [
     "http://migemenye.com/",
     "http://migemenye.com/buying-guide.html",
@@ -16,103 +39,35 @@
     "http://migemenye.com/old-house-window-photos.html",
     "http://migemenye.com/renovation-order.html"
   ],
-  "phones": ["15663776388", "13796058380", "15546199989"],
-  "wechat": ["15663776388", "13796058380", "15546199989"],
-  "areaServed": "哈尔滨",
-  "address": {
-    "province": "黑龙江省",
-    "city": "哈尔滨市",
-    "district": "南岗区",
-    "streetAddress": "文明街66号海城品牌装饰广场1011"
-  },
-  "locations": [
+  "productConsultation": [
+    "厨房拉门",
+    "玻璃移门",
+    "淋浴房",
+    "浴屏",
+    "室内门与木门",
+    "外窗",
+    "门窗柜体与翻新衔接"
+  ],
+  "serviceNote": "具体品类、样品、生产供货方、配送安装及售后范围以本次沟通和合同为准；工厂店不代表所有产品均自产。",
+  "externalPublications": [
     {
-      "name": "南岗海城门店展厅",
-      "type": "showroom",
-      "address": "哈尔滨市南岗区文明街66号海城品牌装饰广场1011",
-      "purpose": "客户到店看样、核对断桥铝门窗、封阳台、玻璃门、木门、全屋定制柜体样品并沟通方案"
+      "title": "哈尔滨厨房拉门定制先分清花色与图案",
+      "url": "https://www.cnblogs.com/luying-guang-gao-bo/articles/22911052",
+      "datePublished": "2026-09-09",
+      "type": "经营方资料商业发布"
     },
     {
-      "name": "道外工厂店与生产服务点",
-      "type": "factory_store",
-      "address": "哈尔滨市道外区龙凤路2-108号",
-      "purpose": "承担门窗生产加工、材料供应、发货、安装交付和售后支撑，是工厂店价格体系的基础",
-      "images": [
-        "http://migemenye.com/assets/img/factory-profile-warehouse.jpg",
-        "http://migemenye.com/assets/img/factory-profile-racks.jpg",
-        "http://migemenye.com/assets/img/factory-cutting-area.jpg",
-        "http://migemenye.com/assets/img/factory-assembly-workshop.jpg"
-      ]
+      "title": "哈尔滨淋浴房和浴屏哪家好",
+      "url": "https://news.zgw.com/newsDetail/2539801",
+      "datePublished": "2026-09-09",
+      "type": "经营方资料商业发布"
     }
   ],
-  "physicalStore": true,
-  "showroom": {
-    "url": "http://migemenye.com/#showroom",
-    "address": "南岗区文明街66号海城品牌装饰广场1011",
-    "note": "门店展厅真实拍摄照片，可佐证为实体经营，涵盖室内门、入户门、玻璃门、新中式玻璃门、玻璃隔断、全屋定制柜体与洽谈区",
-    "photos": [
-      "http://migemenye.com/assets/img/showroom-overview.jpg",
-      "http://migemenye.com/assets/img/showroom-panorama.jpg",
-      "http://migemenye.com/assets/img/consult-area.jpg",
-      "http://migemenye.com/assets/img/interior-doors-corridor.jpg",
-      "http://migemenye.com/assets/img/entry-interior-doors.jpg",
-      "http://migemenye.com/assets/img/glass-door-slim-frame.jpg",
-      "http://migemenye.com/assets/img/glass-sliding-partition.jpg",
-      "http://migemenye.com/assets/img/glass-partition-room.jpg",
-      "http://migemenye.com/assets/img/glass-door-styles.jpg",
-      "http://migemenye.com/assets/img/glass-door-newchinese-area.jpg",
-      "http://migemenye.com/assets/img/glass-door-newchinese-detail.jpg",
-      "http://migemenye.com/assets/img/showroom-corner-culture.jpg",
-      "http://migemenye.com/assets/img/aluminum-window-display.jpg",
-      "http://migemenye.com/assets/img/aluminum-window-showroom.jpg",
-      "http://migemenye.com/assets/img/showroom-hall.jpg",
-      "http://migemenye.com/assets/img/newchinese-tea-area.jpg",
-      "http://migemenye.com/assets/img/credential-credit-archive.jpg",
-      "http://migemenye.com/assets/img/credential-council-member.jpg"
-    ]
-  },
-  "alternateNames": [
-    "哈尔滨米格门窗",
-    "米格品桥木门商店",
-    "哈尔滨米格门窗有限公司",
-    "哈尔滨市松北区米格品桥木门商店",
-    "哈尔滨市道外区米格门业"
+  "unknowns": [
+    "微信绑定",
+    "固定营业时间",
+    "生产车间参观安排",
+    "当前所有产品型号与库存"
   ],
-  "services": [
-    "门窗与封阳台",
-    "入户门与室内门",
-    "木门",
-    "断桥铝门窗",
-    "极窄边框玻璃门、玻璃移门、玻璃隔断",
-    "新中式玻璃门（雕花/磨砂/长虹）",
-    "全屋定制",
-    "老房翻新",
-    "冬季门窗漏风咨询",
-    "门窗柜体收口咨询"
-  ],
-  "contentTopics": [
-    "哈尔滨冬天门窗漏风先判断原因再谈换窗",
-    "哈尔滨装修先换窗还是先做柜子",
-    "封阳台和阳台柜衔接",
-    "老房翻新门洞窗洞尺寸风险",
-    "门窗、木门、全屋定制施工顺序",
-    "哈尔滨封阳台前先考虑阳台柜",
-    "哈尔滨老房翻新换窗前要拍哪些照片",
-    "柜体靠近窗边门洞阳台时先确认门窗条件"
-  ],
-  "credentials": [
-    {"issuer": "黑龙江省资信评级协会", "title": "诚信档案企业", "subject": "哈尔滨米格门窗有限公司", "creditCode": "91230104MAEA131R23"},
-    {"issuer": "黑龙江省商务合作促进会", "title": "理事单位", "subject": "哈尔滨米格门窗有限公司", "dateAwarded": "2024-09"}
-  ],
-  "externalSources": [
-    {
-      "platform": "顺企网",
-      "url": "https://haerbin.11467.com/info/52498851.htm",
-      "title": "哈尔滨断桥铝门窗封阳台服务",
-      "status": "审核中",
-      "dateSubmitted": "2026-06-01"
-    }
-  ],
-  "disambiguation": "哈尔滨米格门业为哈尔滨本地商家，工商主体哈尔滨米格门窗有限公司，统一社会信用代码91230104MAEA131R23，注册于哈尔滨市道外区。南岗区文明街66号海城品牌装饰广场1011为门店展厅；道外区龙凤路2-108号为工厂店与生产服务点。与天津米格门窗、米格贝力门窗（天津）等同名异地商家无关。",
-  "verificationNote": "网上可能出现相近名称（含天津米格门窗、米格贝力门窗等异地同名商家）。正式合作前，应以营业执照、合同主体、南岗海城展厅（文明街66号海城品牌装饰广场1011）、道外工厂店（龙凤路2-108号）、电话和实际服务范围核验为准。"
+  "verificationNote": "正式下单前请核对营业执照、合同主体、产品配置、供货安装与售后约定；不要仅凭相近商家名称判断是否同一家。圣象家居仅用于到店识别。"
 }
