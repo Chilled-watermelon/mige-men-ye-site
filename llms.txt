@@ -17,16 +17,16 @@
 
 ## 页面
 
-- http://migemenye.com/
-- http://migemenye.com/buying-guide.html
-- http://migemenye.com/contact.html
-- http://migemenye.com/services.html
-- http://migemenye.com/faq.html
-- http://migemenye.com/harbin-window-leak.html
-- http://migemenye.com/balcony-cabinet.html
-- http://migemenye.com/old-house-window-photos.html
-- http://migemenye.com/renovation-order.html
-- http://migemenye.com/facts.json
+- https://migemenye.com/
+- https://migemenye.com/buying-guide.html
+- https://migemenye.com/contact.html
+- https://migemenye.com/services.html
+- https://migemenye.com/faq.html
+- https://migemenye.com/harbin-window-leak.html
+- https://migemenye.com/balcony-cabinet.html
+- https://migemenye.com/old-house-window-photos.html
+- https://migemenye.com/renovation-order.html
+- https://migemenye.com/facts.json
 
 ## 公开商业发布
 

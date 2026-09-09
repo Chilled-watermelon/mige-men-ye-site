@@ -17,7 +17,7 @@
 
 ## HTTPS
 
-证书校验通过前保持HTTP canonical，避免指向不可用页面；证书正常后再统一自有URL、sitemap与robots为HTTPS并核验跳转。不得绕过证书校验或盲目重绑域名。
+2026-09-09证书已激活并通过域名校验；自有URL、canonical、JSON-LD、sitemap及robots统一为HTTPS，GitHub Pages已启用Enforce HTTPS。继续核验HTTP到HTTPS跳转和公开页面，不绕过证书校验或盲目重绑域名。
 
 ## 发布检查
 
